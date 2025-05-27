@@ -1,3 +1,5 @@
+// MY FINAL VERSION
+
 public class Food {
     
     private int[] location = new int[2];
